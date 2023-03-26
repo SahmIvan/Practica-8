@@ -1,0 +1,25 @@
+:root{
+    --azulC: #27b7d4;
+    --azulF: #2100fa;
+   }
+    
+   body {
+    background-color: var(--azulC);
+   }
+    
+   h2 {
+    border-bottom: 2px solid var(--azulC);
+   }
+    
+   .container {
+    color: var(--azulC);;
+    background-color: var(--azulF);;
+    padding: 15px;
+   }
+    
+   button {
+    background-color: var(--azulF);
+    color: var(--azulC);
+    border: 1px solid var(--azulC);
+    padding: 5px;
+   }
